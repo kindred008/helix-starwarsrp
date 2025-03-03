@@ -1,0 +1,8 @@
+
+"starwarsrp"
+{
+	"base" 			"helix"
+	"title" 		"starwarsrp"
+	"author" 		"Kara"
+	"menusystem"	"1"
+}
