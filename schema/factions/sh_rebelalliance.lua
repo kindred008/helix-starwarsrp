@@ -18,7 +18,11 @@ FACTION.models = {
 	"models/kriegsyntax/rebel/navy/fleet_trooper/playermodel_keldor_01.mdl",
 	"models/kriegsyntax/rebel/navy/fleet_trooper/playermodel_togruta_01.mdl",
 	"models/kriegsyntax/rebel/navy/fleet_trooper/playermodel_gran_01.mdl",
-	"models/kriegsyntax/rebel/navy/fleet_trooper/playermodel_gand_01.mdl"
+	"models/kriegsyntax/rebel/navy/fleet_trooper/playermodel_gand_01.mdl",
+	"models/kriegsyntax/rebel/navy/fleet_trooper/playermodel_cathar_01.mdl",
+	"models/kriegsyntax/rebel/navy/fleet_trooper/playermodel_devaronian_01.mdl",
+	"models/kriegsyntax/rebel/navy/fleet_trooper/playermodel_duros_01.mdl"
+	
 }
 
 FACTION_REBELALLIANCE = FACTION.index
